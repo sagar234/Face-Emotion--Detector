@@ -63,7 +63,7 @@ CNNs are regularized versions of multilayer perceptrons. Multilayer perceptrons 
 
 
 
-To See the Training and Testing python file follow this link: https://github.com/kartik567/Face-Emotion-Recognition-1/blob/main/Face%20Recognition%20.ipynb
+To See the Training and Testing python file follow this link: https://github.com/sagar234/Face-Emotion--Detector/blob/main/Face%20Recognition%20.ipynb
 
 # Realtime Local Video Face Detection
 I created one patterns for detecting and predicting single faces and as well as multiple faces using OpenCV videocapture in local.
@@ -74,7 +74,7 @@ We deploy the app in streamlit but it invite the new user and it take time so af
 
 ## Conclusion
 Finally we build the webapp and deployed which has training accuracy of 72.15% and test accuracy of 66.64% .
-If you see how works visit link : https://github.com/kartik567/Face-Emotion-Recognition-1/blob/main/Local%20Video.mp4
+If you see how works visit link : https://github.com/sagar234/Face-Emotion--Detector/blob/main/Local%20Video.mp4
 
 ## Some real life experience form project
 Understand the deep concept of project
